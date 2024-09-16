@@ -1,5 +1,5 @@
 import { log } from "console";
-import foodModel from "../models/foodModels.js";
+import foodModel from "../models/foodModel.js";
 import fs from 'fs'
 
 

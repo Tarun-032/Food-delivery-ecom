@@ -19,7 +19,7 @@
 
 }
 
-.add-product-name input, add textarea{
+.add-product-name input, .add-product-description textarea{
     padding: 10px;
 }
 
